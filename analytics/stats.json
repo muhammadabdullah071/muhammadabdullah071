@@ -1,44 +1,28 @@
 {
   "github": {
     "username": "muhammadabdullah071",
-    "stats": {
-      "theme": "radical",
-      "hide_border": true,
-      "count_private": true,
-      "show_icons": true,
-      "include_all_commits": true,
-      "bg_color": "0D1117"
-    },
-    "top_langs": {
-      "theme": "radical",
-      "hide_border": true,
-      "layout": "compact",
-      "bg_color": "0D1117",
-      "langs_count": 8
-    },
-    "streak": {
-      "theme": "radical",
-      "hide_border": true,
-      "background": "0D1117",
-      "fire": "ff6b6b",
-      "ring": "ff6b6b",
-      "currStreakLabel": "ff6b6b"
-    },
-    "trophies": {
-      "theme": "radical",
-      "no_frame": true,
-      "no_bg": true,
-      "row": 1,
-      "column": 6
+    "summary_cards": {
+      "profile_details": {
+        "theme": "nord_dark"
+      },
+      "stats": {
+        "theme": "nord_dark"
+      },
+      "repos_per_language": {
+        "theme": "nord_dark"
+      },
+      "most_commit_language": {
+        "theme": "nord_dark"
+      },
+      "productive_time": {
+        "theme": "nord_dark",
+        "utcOffset": 5
+      }
     },
     "activity_graph": {
-      "theme": "redical",
+      "theme": "nord",
       "hide_border": true,
       "area": true,
-      "bg_color": "0D1117",
-      "point": "ff6b6b",
-      "line": "ff6b6b",
-      "area_color": "ff6b6b",
       "radius": 8
     }
   }
