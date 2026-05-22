@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Muhammad Abdullah</h1>
+  <h1>👋 Muhammad Abdullah Alvi</h1>
   <h3>Full-Stack Developer · CS Undergrad @ NUML Islamabad</h3>
 
   <a href="mailto:alviabdullah.pk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
