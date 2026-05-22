@@ -32,13 +32,14 @@
 ## � About Me
 
 ```
-asad@shahid
-├─ OS ...................... Windows
-├─ College ................ National University of Modern Languages, Islamabad
-├─ Major ................... Computer Science
-├─ IDE ..................... VSCode, Cursor
-├─ Status .................. 🎓 Student | 💻 Developer | 🚀 Tech Enthusiast
-└─ Goal .................... Building solutions that make a difference
+muhammadabdullah071
+├─ Name ................... Muhammad Abdullah Alvi
+├─ OS ..................... Windows
+├─ College ............... National University of Modern Languages, Islamabad
+├─ Major .................. Computer Science
+├─ IDE .................... VSCode, Cursor
+├─ Status ................. 🎓 Student | 💻 Developer | 🚀 Tech Enthusiast
+└─ Goal ................... Building solutions that make a difference
 ```
 
 ---
