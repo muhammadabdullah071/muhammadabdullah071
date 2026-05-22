@@ -1,23 +1,24 @@
 {
   "github": {
     "username": "muhammadabdullah071",
+    "theme": "catppuccin_mocha",
     "stats": {
-      "theme": "github_dark",
-      "hide_border": true,
-      "count_private": true,
       "show_icons": true,
-      "include_all_commits": true,
-      "rank_icon": "github"
+      "count_private": true,
+      "include_all_commits": true
     },
     "top_langs": {
-      "theme": "github_dark",
-      "hide_border": true,
       "layout": "compact",
-      "langs_count": 6
+      "langs_count": 6,
+      "card_width": 300
     },
-    "streak": {
-      "theme": "github_dark",
-      "hide_border": true
+    "activity_graph": {
+      "theme": "catppuccin-mocha",
+      "hide_border": true,
+      "area": true,
+      "area_color": "89b4fa",
+      "point": "89b4fa",
+      "line": "f5c2e7"
     }
   }
 }
