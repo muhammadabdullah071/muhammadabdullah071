@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/muhammadabdullah071/muhammadabdullah071/main/analytics/schema.json",
   "github": {
     "username": "muhammadabdullah071",
     "stats": {
@@ -13,15 +14,6 @@
       "hide_border": true,
       "layout": "compact",
       "langs_count": 6
-    },
-    "streak": {
-      "theme": "github_dark",
-      "hide_border": true
-    },
-    "activity_graph": {
-      "theme": "github-dark",
-      "hide_border": true,
-      "area": true
     }
   }
 }
