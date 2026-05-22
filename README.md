@@ -15,7 +15,7 @@
       <h3>🧑‍💻 About</h3>
       Building full-stack web apps with React, Node.js, and exploring machine learning. I enjoy turning ideas into real-world solutions and contributing to open source.
       <br><br>
-      <b>Languages:</b> Urdu, English, Pashto<br>
+      <b>Languages:</b> Urdu, English<br>
       <b>Interests:</b> Badminton, Coding, Problem Solving
     </td>
     <td width="50%">
