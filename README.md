@@ -1,61 +1,48 @@
 ```
-  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
- /  WELCOME TO MY GITHUB PROFILE                             /
-/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+  ╔════════════════════════════╗
+  ║   HELLO WORLD! 👋        ║
+  ║   Muhammad Abdullah Alvi   ║
+  ║   Welcome to My Profile    ║
+  ╚════════════════════════════╝
+  
+     _   ___     _     _ _ _
+    / \ / _ \   / \   | | | |
+   / _ \ \_/ \ / _ \  | | | |
+  / ___ \___  \/ ___ \ |_|_|_|
+ /_/   \___|__/_/   \_\\_____/
 ```
 
-# 👋 Muhammad Abdullah Alvi
+**muhammadabdullah071** ───────────────────────────────── **Windows**
 
-```
-    _   __    _    __  __ __  __  ___  _   _
-   / \ |  \  / \  / / |  \_/  /|  _ \| | | |
-  / _ \ |  / / _ \/ /  | |\_/| | / _` | | | |
- / ___ \| |\ / ___ \   | | | |/ / (_| | |_| |
-/_/   \_|_| \_/_/  \_\  |_| |_|\_\__,_|\___/
-```
-
-<div align="center">
-
-**🔗 Connect With Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-alvi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://muhammadabdullah071.github.io/Abdullah-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alviabdullah.pk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadabdullah071)
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadabdullah071&color=brightgreen)
-
-</div>
+- **College:** ..................... National University of Modern Languages, Islamabad
+- **Major:** ....................... Computer Science Undergrad
+- **IDE:** ......................... VSCode, Cursor
+- **Status:** ...................... 🎓 Student | 💻 Developer | 🚀 Tech Enthusiast
 
 ---
 
-## � About Me
-
-```
-muhammadabdullah071
-├─ Name ................... Muhammad Abdullah Alvi
-├─ OS ..................... Windows
-├─ College ............... National University of Modern Languages, Islamabad
-├─ Major .................. Computer Science
-├─ IDE .................... VSCode, Cursor
-├─ Status ................. 🎓 Student | 💻 Developer | 🚀 Tech Enthusiast
-└─ Goal ................... Building solutions that make a difference
-```
+**Languages.Programming:** ........ Python, JavaScript, C++, SQL  
+**Languages.Styling:** ........... Tailwind CSS, HTML5, CSS3  
+**Languages.Frontend:** ......... React, Next.js, Vue.js  
+**Languages.Backend:** .......... Node.js, Express.js  
+**Languages.Real:** ............ Urdu, English, Pashto
 
 ---
 
-## 💼 Tech Stack
+**Hobbies.Software:** ........... Machine Learning, Data Science, Web Dev  
+**Hobbies.Hardware:** ........ Badminton, Coding, Problem Solving
 
-```
-Languages.Programming ... Python, JavaScript, C++, SQL
-Languages.Styling ....... Tailwind CSS, HTML5, CSS3
-Frontend ................ React, Next.js, Vue.js
-Backend ................. Node.js
-Tools & Platforms ....... Git, GitHub, Windows
-Databases ............... MongoDB, PostgreSQL
-```
+---
 
-**Detailed Badges:**
+- **Contact** ──────────────────────────────────────
+- **Email:** ......................... alviabdullah.pk@gmail.com
+- **LinkedIn:** ..................... [muhammad-abdullah-alvi](https://www.linkedin.com/in/muhammad-abdullah-alvi/)
+- **Portfolio:** .................... [Abdullah-Portfolio](https://muhammadabdullah071.github.io/Abdullah-Portfolio/)
+- **GitHub:** ...................... [muhammadabdullah071](https://github.com/muhammadabdullah071)
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,36 +53,20 @@ Databases ............... MongoDB, PostgreSQL
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Tools
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-## 🎯 Currently Learning
-
-```
-Languages ............. Advanced React, Next.js Optimization
-Database .............. MongoDB, PostgreSQL, Database Design
-Infrastructure ........ Cloud Technologies (AWS/Firebase)
-Concepts .............. Microservices, System Design
-```
-
----
-
-## 🏆 Hobbies & Interests
-
-```
-Hobbies.Software ...... Machine Learning, Data Science, Web Dev
-Hobbies.Hardware ...... Badminton, Innovation, Problem Solving
-Interests ............ Open Source, UI/UX Design, Tech Blogging
-Passion .............. Building solutions that matter
-```
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -111,33 +82,18 @@ Passion .............. Building solutions that matter
 
 ---
 
-## 📞 Contact
+## 🎯 Currently Learning
 
-```
-Email ................. alviabdullah.pk@gmail.com
-Phone ................. (Available upon request)
-LinkedIn .............. /in/muhammad-abdullah-alvi/
-Website ............... muhammadabdullah071.github.io/Abdullah-Portfolio/
-GitHub ................ github.com/muhammadabdullah071
-```
-
----
-
-## � Quote
-
-```
-"Code is like humor. When you have to explain it, it's bad." – Cory House
-```
+- Advanced React & Next.js Optimization
+- MongoDB & PostgreSQL Database Design
+- Cloud Technologies (AWS/Firebase)
+- Microservices & System Design
 
 ---
 
 <div align="center">
 
-```
-    ___________________________________________________________________________
-   /           Thank You for Visiting My Profile! 🙏                      /
-  /_____________________________________________________________________/
-```
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadabdullah071&color=brightgreen)
 
 **⭐ If you like my work, please star my repositories!**
 
