@@ -1,42 +1,55 @@
-# Muhammad Abdullah
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Abdullah&fontSize=50&fontAlignY=35&desc=CS%20Undergrad%20%40%20NUML%20Islamabad&descAlignY=55"/>
+</p>
 
-> Computer Science Undergrad @ NUML Islamabad | Full-Stack Developer
+<p align="center">
+  <a href="mailto:alviabdullah.pk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-alvi/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://muhammadabdullah071.github.io/Abdullah-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=61dafb"/></a>
+  <a href="https://github.com/muhammadabdullah071"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 👋 About
+### 🧑‍💻 About
 
-Passionate about building things that live on the internet. I develop full-stack web applications and explore machine learning. Currently focused on React, Node.js, and backend systems.
+```yaml
+name: Muhammad Abdullah
+location: Islamabad, Pakistan
+college: National University of Modern Languages
+degree: BS Computer Science
+languages: [Python, JavaScript, C++, SQL]
+spoken: [Urdu, English, Pashto]
+interests: [Full-Stack Dev, Machine Learning, Data Science]
+```
 
-### 📫 Contact
+---
 
-[![Email](https://img.shields.io/badge/-alviabdullah.pk@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:alviabdullah.pk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-muhammad--abdullah--alvi-gray?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammad-abdullah-alvi/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=flat-square&logo=react&logoColor=blue)](https://muhammadabdullah071.github.io/Abdullah-Portfolio/)
-[![GitHub](https://img.shields.io/badge/-muhammadabdullah071-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadabdullah071)
-
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 📊 GitHub
+### ⚡ Skills
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nextjs,vue,tailwind,nodejs,express,mongodb,postgres,git,vscode&perline=6" />
+  </a>
+</p>
+
+---
+
+### 📈 Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=1f6feb&style=flat-square"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=1f6feb&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
