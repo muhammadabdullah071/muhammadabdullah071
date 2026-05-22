@@ -19,7 +19,7 @@ location: Islamabad, Pakistan
 college: National University of Modern Languages
 degree: BS Computer Science
 languages: [Python, JavaScript, C++, SQL]
-spoken: [Urdu, English, Pashto]
+spoken: [Urdu, English]
 interests: [Full-Stack Dev, Machine Learning, Data Science]
 ```
 
