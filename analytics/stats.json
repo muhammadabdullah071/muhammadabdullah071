@@ -1,0 +1,25 @@
+{
+  "github": {
+    "username": "muhammadabdullah071",
+    "stats": {
+      "theme": "tokyonight",
+      "hide_border": true,
+      "count_private": true,
+      "show_icons": true
+    },
+    "top_langs": {
+      "theme": "tokyonight",
+      "hide_border": true,
+      "layout": "compact"
+    },
+    "streak": {
+      "theme": "tokyonight",
+      "hide_border": true
+    },
+    "activity_graph": {
+      "theme": "tokyo-night",
+      "hide_border": true,
+      "area": true
+    }
+  }
+}

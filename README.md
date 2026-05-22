@@ -1,8 +1,14 @@
 ```
- __  ___   _ _  _  _  _  _  _      _   _ _   ___   _  _     _   _    __  _
-|  \/  | | | || \| || || || |    / \ | | | |  _  \| || |   / \ | |  / / \| |
-|    | | | | || \ \ || || || |   / _ \| | | | | | || || |  / _ \| |_/ ( (_) |
-|    | | | | || | \_|(_)(_)(_)  / ___ \ |_| | |_| |(_)(_) / ___ \___/\__,_|
+    __  ___   _   _  _  _  _      _    _   _  _  _  _  _  _      _   _ 
+   |  \/  | | | | | | | | | |    / \  | | | || || || || || |    / \ | |
+   |  /\  | | |_| | | | | |_|   / _ \ | |_| || || || || || |   / _ \| |
+   |_/  \_| \___/  \_/ \___/   / ___ \ \___/ \__/ \__/ \__/   / ___ \|_|
+                                                                         
+        __    _ _  __  _ _
+       / /\  | | ||  \| | |
+      / /  \ | | ||   \ | |
+     / / /\ \| |_|| |\ \|_|
+    / / /  \ \___/|_| \_\___|
 ```
 
 **muhammadabdullah071** ───────────────────────────────── **Windows**
@@ -67,9 +73,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadabdullah071&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
