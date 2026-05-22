@@ -2,24 +2,44 @@
   "github": {
     "username": "muhammadabdullah071",
     "stats": {
-      "theme": "tokyonight",
+      "theme": "radical",
       "hide_border": true,
       "count_private": true,
-      "show_icons": true
+      "show_icons": true,
+      "include_all_commits": true,
+      "bg_color": "0D1117"
     },
     "top_langs": {
-      "theme": "tokyonight",
+      "theme": "radical",
       "hide_border": true,
-      "layout": "compact"
+      "layout": "compact",
+      "bg_color": "0D1117",
+      "langs_count": 8
     },
     "streak": {
-      "theme": "tokyonight",
-      "hide_border": true
+      "theme": "radical",
+      "hide_border": true,
+      "background": "0D1117",
+      "fire": "ff6b6b",
+      "ring": "ff6b6b",
+      "currStreakLabel": "ff6b6b"
+    },
+    "trophies": {
+      "theme": "radical",
+      "no_frame": true,
+      "no_bg": true,
+      "row": 1,
+      "column": 6
     },
     "activity_graph": {
-      "theme": "tokyo-night",
+      "theme": "redical",
       "hide_border": true,
-      "area": true
+      "area": true,
+      "bg_color": "0D1117",
+      "point": "ff6b6b",
+      "line": "ff6b6b",
+      "area_color": "ff6b6b",
+      "radius": 8
     }
   }
 }

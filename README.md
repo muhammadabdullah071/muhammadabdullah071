@@ -72,15 +72,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=radical&hide_border=true&background=0D1117&fire=ff6b6b&ring=ff6b6b&currStreakLabel=ff6b6b"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah071&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadabdullah071&theme=tokyo-night&hide_border=true&area=true)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadabdullah071&theme=redical&hide_border=true&area=true&bg_color=0D1117&point=ff6b6b&line=ff6b6b&area_color=ff6b6b&radius=8"/>
 </div>
 
 ---
