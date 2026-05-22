@@ -24,11 +24,11 @@
 **Languages.Styling:** ........... Tailwind CSS, HTML5, CSS3  
 **Languages.Frontend:** ......... React, Next.js, Vue.js  
 **Languages.Backend:** .......... Node.js, Express.js  
-**Languages.Real:** ............ Urdu, English, Pashto
+**Languages.Real:** ............ Urdu, English
 
 ---
 
-**Hobbies.Software:** ........... Machine Learning, Data Science, Web Dev  
+**Hobbies.Software:** ........... Machine Learning, Data Science  
 **Hobbies.Hardware:** ........ Badminton, Coding, Problem Solving
 
 ---
