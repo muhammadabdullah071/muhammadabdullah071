@@ -1,29 +1,27 @@
 {
   "github": {
     "username": "muhammadabdullah071",
-    "summary_cards": {
-      "profile_details": {
-        "theme": "nord_dark"
-      },
-      "stats": {
-        "theme": "nord_dark"
-      },
-      "repos_per_language": {
-        "theme": "nord_dark"
-      },
-      "most_commit_language": {
-        "theme": "nord_dark"
-      },
-      "productive_time": {
-        "theme": "nord_dark",
-        "utcOffset": 5
-      }
+    "stats": {
+      "theme": "github_dark",
+      "hide_border": true,
+      "count_private": true,
+      "show_icons": true,
+      "include_all_commits": true
+    },
+    "top_langs": {
+      "theme": "github_dark",
+      "hide_border": true,
+      "layout": "compact",
+      "langs_count": 6
+    },
+    "streak": {
+      "theme": "github_dark",
+      "hide_border": true
     },
     "activity_graph": {
-      "theme": "nord",
+      "theme": "github-dark",
       "hide_border": true,
-      "area": true,
-      "radius": 8
+      "area": true
     }
   }
 }
