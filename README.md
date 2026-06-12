@@ -5,19 +5,18 @@
 ```
 OS: ................................................ Windows & Linux
 .
-. College: ................... National University of Modern Languages, Islamabad
+. University: ................... National University of Modern Languages, Islamabad
 . Major: ................................... Computer Science
 . IDE: ......................................... VS Code & JetBrains IDEs
 .
-. Languages.Real: .......................... English, Urdu, Hindi
+. Languages.Real: .......................... English, Urdu
 .
 . Hobbies.Software: ........... Machine Learning, DevOps, Open Source, Cloud
-. Hobbies.Hardware: ................... Aviation, Automotives, Photography, Badminton
+. Hobbies.Hardware: ...................  Badminton, Aviation, Automotives, Photography
 .
 - Contact ------------------------------------------------------
 . Email: ........................ alviabdullah.pk@gmail.com
 . LinkedIn: .................................... muhammad-abdullah-alvi
-. GitHub: .................................... muhammadabdullah071
 . Website: .............................. muhammadabdullah071.github.io/Abdullah-Portfolio
 ```
 
