@@ -14,7 +14,7 @@ muhammad.abdullah.alvi -----------------------------------------------------
 . Hobbies.Software: ........... Machine Learning, DevOps, Open Source, Cloud
 . Hobbies.Hardware: ...................  Badminton, Photography, Aviation, Automotives
 .
-- Contact -------------------------------------------------------------------
+- Contact ------------------------------------------------------------------
 . Email: ........................ alviabdullah.pk@gmail.com
 . LinkedIn: .................................... muhammad-abdullah-alvi
 . Website: .............................. muhammadabdullah071.github.io/Abdullah-Portfolio
