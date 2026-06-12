@@ -2,16 +2,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=80&section=header&text=muhammadabdullah071&fontSize=30&fontColor=58a6ff&animation=fadeIn"/>
 </p>
 
-```text
-full-stack developer · cs @ numl islamabad
-building web apps with react, node.js & python
-exploring ml, cloud infrastructure & system design
+```
+OS: ................................................ Windows & Linux
+.
+. College: ................... National University of Modern Languages, Islamabad
+. Major: ................................... Computer Science
+. IDE: ......................................... VS Code & JetBrains IDEs
+.
+. Languages.Real: .......................... English, Urdu, Hindi
+.
+. Hobbies.Software: ........... Machine Learning, DevOps, Open Source, Cloud
+. Hobbies.Hardware: ................... Aviation, Automotives, Photography, Badminton
+.
+- Contact ------------------------------------------------------
+. Email: ........................ alviabdullah.pk@gmail.com
+. LinkedIn: .................................... muhammad-abdullah-alvi
+. GitHub: .................................... muhammadabdullah071
+. Website: .............................. muhammadabdullah071.github.io/Abdullah-Portfolio
 ```
 
 <p align="center">
   <a href="mailto:alviabdullah.pk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-30363d?style=flat&logo=gmail&logoColor=58a6ff"/></a>
   <a href="https://www.linkedin.com/in/muhammad-abdullah-alvi/"><img src="https://img.shields.io/badge/-LinkedIn-30363d?style=flat&logo=linkedin&logoColor=58a6ff"/></a>
-  <a href="https://muhammadabdullah071.github.io/Abdullah-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-30363d?style=flat&logo=react&logoColor=58a6ff"/></a>
   <a href="https://github.com/muhammadabdullah071"><img src="https://img.shields.io/badge/-GitHub-30363d?style=flat&logo=github&logoColor=58a6ff"/></a>
 </p>
 
