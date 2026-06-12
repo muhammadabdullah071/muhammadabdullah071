@@ -25,6 +25,7 @@ OS: ................................................ Windows & Linux
   <a href="mailto:alviabdullah.pk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-30363d?style=flat&logo=gmail&logoColor=58a6ff"/></a>
   <a href="https://www.linkedin.com/in/muhammad-abdullah-alvi/"><img src="https://img.shields.io/badge/-LinkedIn-30363d?style=flat&logo=linkedin&logoColor=58a6ff"/></a>
   <a href="https://github.com/muhammadabdullah071"><img src="https://img.shields.io/badge/-GitHub-30363d?style=flat&logo=github&logoColor=58a6ff"/></a>
+  <a href="https://muhammadabdullah071.github.io/Abdullah-Portfolio/"><img src="https://img.shields.io/badge/-Website-30363d?style=flat&logo=react&logoColor=58a6ff"/></a>
 </p>
 
 ---
@@ -43,6 +44,32 @@ OS: ................................................ Windows & Linux
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
+
+---
+
+### streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github_dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</p>
+
+---
+
+### trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah071&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+</p>
+
+---
+
+### activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadabdullah071&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=58a6ff&style=flat"/>
