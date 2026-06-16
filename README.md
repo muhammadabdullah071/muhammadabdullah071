@@ -10,11 +10,9 @@
 
 ### 👤 **about**
 
-<img align="right" width="150" src="https://github.com/muhammadabdullah071.png?size=200" alt="Profile"/>
+<img align="right" width="140" src="https://github.com/muhammadabdullah071.png?size=200" alt=""/>
 
-CS student at **NUML Islamabad** — building things that actually matter.
-
-Passionate about AI/ML, open source, and crafting software that makes a difference.
+**CS @ NUML Islamabad** | building things that actually matter.
 
 <br clear="right"/>
 
@@ -50,9 +48,7 @@ Passionate about AI/ML, open source, and crafting software that makes a differen
 
 <br>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,rust,go,react,nextjs,tailwind,nodejs,docker,git,linux,mongodb&theme=dark&perline=8" alt="Skill Icons"/>
-</a>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,rust,go,react,nextjs,tailwind,nodejs,docker,git,linux,mongodb&theme=dark&perline=8" alt=""/>
 
 ---
 
