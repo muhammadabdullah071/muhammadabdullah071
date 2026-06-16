@@ -10,11 +10,7 @@
 
 ### 👤 **about**
 
-<img align="right" width="140" src="https://github.com/muhammadabdullah071.png?size=200" alt=""/>
-
-**CS @ NUML Islamabad** | building things that actually matter.
-
-<br clear="right"/>
+turning ideas into software — one line at a time.
 
 ---
 
