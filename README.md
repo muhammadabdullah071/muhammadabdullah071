@@ -16,8 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://muhammadabdullah071.github.io/Abdullah-Portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alviabdullah.pk@gmail.com)
 
-</div>
-
 ---
 
 ### `whoami`
@@ -77,6 +75,20 @@ CS student at **NUML Islamabad** passionate about building things that matter.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah071&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadabdullah071&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=58a6ff"/>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=58a6ff&style=flat&label=Profile+Views"/>
 
