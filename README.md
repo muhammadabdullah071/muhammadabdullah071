@@ -44,7 +44,6 @@ turning ideas into software — one line at a time.
 
 <br>
 ---
-
 ### 🎯 **vibes**
 
 `AI/ML` · `Open Source` · `DevOps` · `Game Dev` · `Aviation` · `Robotics`
