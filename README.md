@@ -43,8 +43,7 @@ turning ideas into software — one line at a time.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 <br>
----
-### 🎯 **vibes**
+🎯 **vibes**
 
 `AI/ML` · `Open Source` · `DevOps` · `Game Dev` · `Aviation` · `Robotics`
 
