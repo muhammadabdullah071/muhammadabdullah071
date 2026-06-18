@@ -10,7 +10,9 @@
 
 ### 👤 **about**
 
-turning ideas into software — one line at a time.
+Software engineer passionate about building scalable, intelligent systems that solve real-world problems. 
+
+Currently pursuing Computer Science at NUML Islamabad while actively exploring AI/ML, DevOps, and open-source contributions. My approach combines clean architecture with continuous delivery ensuring every project is not just functional but future proof.
 
 ---
 
