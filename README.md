@@ -43,9 +43,6 @@ turning ideas into software — one line at a time.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,rust,go,react,nextjs,tailwind,nodejs,docker,git,linux,mongodb&theme=dark&perline=8" alt=""/>
-
 ---
 
 ### 🎯 **vibes**
