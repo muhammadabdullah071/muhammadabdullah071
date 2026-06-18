@@ -10,7 +10,7 @@
 
 ### 👤 **about**
 
-Software engineer passionate about building scalable, intelligent systems that solve real-world problems. 
+Software engineer crafting scalable solutions with a focus on AI/ML and DevOps.
 
 Currently pursuing Computer Science at NUML Islamabad while actively exploring AI/ML, DevOps, and open-source contributions. My approach combines clean architecture with continuous delivery ensuring every project is not just functional but future proof.
 
