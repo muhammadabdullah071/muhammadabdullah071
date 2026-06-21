@@ -50,6 +50,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Editors & IDEs**
 <br>
@@ -58,7 +59,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,mongodb,fastapi,sklearn,opencv,numpy,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,mongodb,fastapi,sklearn,opencv,numpy,pandas,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
 
 ---
 
