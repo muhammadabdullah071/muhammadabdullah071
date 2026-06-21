@@ -43,7 +43,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **AI/ML**
 <br>
@@ -59,7 +59,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,mongodb,fastapi,sklearn,opencv,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,fastapi,sklearn,opencv,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
 
 ---
 
