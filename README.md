@@ -44,6 +44,9 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
 **AI/ML**
 <br>
@@ -59,7 +62,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,fastapi,sklearn,opencv,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
 
 ---
 
