@@ -63,6 +63,8 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 
 <br>
 <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,vscode,visualstudio,idea&theme=dark&perline=11" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" style="background:#242938;border-radius:8px;padding:8px;margin:4px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" style="background:#242938;border-radius:8px;padding:8px;margin:4px"/>
 
 ---
 
