@@ -8,7 +8,7 @@
 
 ---
 
-### 👤 **about**
+### 👤 **About**
 
 Software engineer crafting scalable solutions with a focus on AI/ML and DevOps.
 
@@ -16,7 +16,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 
 ---
 
-### 🛠️ **stack**
+### 🛠️ **Stack**
 
 **Languages**
 <br>
@@ -67,13 +67,13 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 
 ---
 
-### 🎯 **vibes**
+### 🎯 **Vibes**
 
 `AI/ML` · `Open Source` · `DevOps` · `Game Dev` · `Aviation` · `Robotics`
 
 ---
 
-### 📊 **stats**
+### 📊 **Stats**
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadabdullah071&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadabdullah071&theme=github_dark"/>
