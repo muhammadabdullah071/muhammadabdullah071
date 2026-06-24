@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48C9B0&center=true&vCenter=true&width=600&lines=Hey!+I'm+Abdullah+%F0%9F%91%8B;CS+student+%40+NUML+Islamabad;Building+things+that+actually+matters.;AI%2FML+%7C+Open+Source+%7C+DevOps+%8C+Aviation" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48C9B0&center=true&vCenter=true&width=600&lines=Hey!+I'm+Abdullah+%F0%9F%91%8B;CS+student+%40+NUML+Islamabad;Building+things+that+actually+matters.;AI%2FML+%7C+Open+Source+%7C+DevOps+%8C+AviationFML" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-alvi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullah-alvi.vercel.app/)
