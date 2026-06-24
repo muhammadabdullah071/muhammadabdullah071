@@ -54,6 +54,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Editors & IDEs**
 <br>
@@ -61,7 +62,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,vscode,visualstudio&theme=dark&perline=13" alt=""/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio&theme=dark&perline=13" alt=""/>
 
 ---
 
