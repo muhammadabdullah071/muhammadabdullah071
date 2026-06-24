@@ -63,7 +63,7 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio,idea,cursor&theme=dark&perline=13" alt=""/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio,cursor&theme=dark&perline=13" alt=""/>
 
 ---
 
