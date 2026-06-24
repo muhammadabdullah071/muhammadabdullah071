@@ -60,9 +60,10 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 <br>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio&theme=dark&perline=13" alt=""/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio,idea,cursor&theme=dark&perline=13" alt=""/>
 
 ---
 
