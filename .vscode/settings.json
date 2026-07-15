@@ -1,0 +1,6 @@
+﻿{
+    "gsd.autoStart": true,
+    "gsd.autoCompaction": true,
+    "gsd.codeLens": true,
+    "gsd.approvalMode": "auto-approve"
+}

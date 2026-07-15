@@ -1,0 +1,47 @@
+# Global CodeRabbit Configuration
+# Auto-loaded by CodeRabbit for all repositories
+# Docs: https://docs.coderabbit.ai/getting-started/configure-coderabbit
+
+language: en-US
+
+reviews:
+  auto_review:
+    enabled: true
+    drafts: false
+    base_branches:
+      - main
+      - master
+      - develop
+
+  profile: assertive
+
+  request_changes_workflow: true
+  high_level_summary: true
+  poem: false
+  review_status: true
+  collapse_walkthrough: false
+
+  tools:
+    ruff:
+      enabled: false
+    pipedot:
+      enabled: false
+
+  ignore_files:
+    - "*.lock"
+    - "composer.lock"
+    - "package-lock.json"
+    - "yarn.lock"
+    - "pnpm-lock.yaml"
+    - "vendor/**"
+    - "node_modules/**"
+    - "*.min.js"
+    - "*.min.css"
+    - "*.map"
+    - "*.generated.*"
+    - "__pycache__/**"
+    - "*.pyc"
+    - "dist/**"
+    - "build/**"
+    - ".next/**"
+    - "coverage/**"
