@@ -81,6 +81,13 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 `AI/ML` · `Open Source` · `DevOps` · `Game Dev` · `Aviation` · `Robotics`
 
 ---
+### 🏆 **Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah071&theme=onedark&no-frame=true&no-bg=false&row=1&column=7&margin-w=10"/>
+</p>
+
+---
 
 ### 📊 **Stats**
 
@@ -90,6 +97,14 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=58A6FF&style=flat&label=Profile+Views"/>
+</p>
+
+---
+
+### 🐍 **Contributions**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadabdullah071/muhammadabdullah071/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 </div>
