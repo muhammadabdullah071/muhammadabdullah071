@@ -86,7 +86,6 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
-  <img src="https://metrics.lecoq.io/muhammadabdullah071?template=classic&languages=1&stars=1&followup=1&activity=1&config.timezone=Asia%2FKarachi"/>
 </p>
 
 <p align="center">
