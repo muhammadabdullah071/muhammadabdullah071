@@ -85,13 +85,12 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ### 📊 **Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&theme=github_dark&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&theme=github_dark&layout=compact&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=48C9B0&ring=48C9B0&fire=48C9B0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=48C9B0&sideLabels=c9d1d9&dates=8b949e"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://metrics.lecoq.io/muhammadabdullah071?template=classic&languages=1&stars=1&followup=1&activity=1&config.timezone=Asia%2FKarachi"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=48C9B0&style=flat&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=muhammadabdullah071&color=58A6FF&style=flat&label=Profile+Views"/>
 </p>
 
 </div>
