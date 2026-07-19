@@ -1,9 +1,15 @@
+```
+ __  __       _                                         _        _    _         _       _ _       _     
+|  \/  |_   _| |__   __ _ _ __ ___  _ __ ___   __ _  __| |      / \  | |__   __| |_   _| | | __ _| |__  
+| |\/| | | | | '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` |/ _` |     / _ \ | '_ \ / _` | | | | | |/ _` | '_ \ 
+| |  | | |_| | | | | (_| | | | | | | | | | | | (_| | (_| |    / ___ \| |_) | (_| | |_| | | | (_| | | | |
+|_|  |_|\__,_|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_|\__,_|   /_/   \_\_.__/ \__,_|\__,_|_|_|\__,_|_| |_|
+                                                                                                        
+```
 
 <div align="center">
 
-# 👋 **Muhammad Abdullah**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+%40+NUML+Islamabad;Building+things+that+actually+matter.;AI%2FML+%7C+Open+Source+%7C+DevOps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+%40+NUML+Islamabad;Building+things+that+actually+matter.;AI%2FML+%7C+Open+Source+%7C+DevOps" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-alvi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullah-alvi.vercel.app/)
@@ -13,15 +19,16 @@
 
 ### 👤 **About**
 
-Software engineer crafting scalable solutions with a focus on **AI/ML** and **DevOps**.
+Software engineer crafting scalable solutions with a focus on AI/ML and DevOps.
 
-Currently pursuing Computer Science at NUML Islamabad while actively exploring AI/ML, DevOps, and open-source contributions. My approach combines clean architecture with continuous delivery — ensuring every project is not just functional but future-proof.
+Currently pursuing Computer Science at NUML Islamabad while actively exploring AI/ML, DevOps, and open-source contributions. My approach combines clean architecture with continuous delivery ensuring every project is not just functional but future proof.
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ **Stack**
 
-**Languages**  
+**Languages**
+<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,13 +37,15 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Frontend**  
+**Frontend**
+<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20235A?style=flat&logo=react&logoColor=61DAFB)
 
-**Backend & Tools**  
+**Backend & Tools**
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -48,17 +57,22 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
-**AI/ML**  
+**AI/ML**
+<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Editors & IDEs**  
+**Editors & IDEs**
+<br>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio,cursor&theme=dark&perline=13" alt=""/>
 
 ---
 
@@ -68,15 +82,10 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah071&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&icon_color=58A6FF&text_color=c9d1d9&title_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah071&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58A6FF"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=muhammadabdullah071&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah071&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
 </p>
 
 <p align="center">
