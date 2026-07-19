@@ -64,15 +64,15 @@ Currently pursuing Computer Science at NUML Islamabad while actively exploring A
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Editors & IDEs**
 <br>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,sklearn,opencv,numpy,pandas,jupyter,vscode,visualstudio,cursor&theme=dark&perline=13" alt=""/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,js,ts,php,react,nextjs,tailwind,nodejs,laravel,docker,git,linux,postgresql,expressjs,prisma,fastapi,huggingface,sklearn,opencv,numpy,pandas,jupyter,vscode,cursor&theme=dark&perline=13" alt=""/>
 
 ---
 
